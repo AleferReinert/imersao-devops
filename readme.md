@@ -74,3 +74,6 @@ Este projeto é uma API desenvolvida com FastAPI para gerenciar alunos, cursos e
 ## Crédito
 
 Projeto desenvolvido durante a imersão DevOps da Alura onde foi abordado sobre Docker e Google Cloud.
+
+Guia de mergulho: [clique aqui](https://grupoalura.notion.site/Imers-o-Cloud-DevOps-Guia-de-Mergulho-207379bdd09b80bc91c2f67f3c69332a)!
+
